@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {
+      "id": 3,
+      "name": "Captain America",
+      "realName": "Steve Rogers",
+      "universe": "DC"
+    },
+    {
+      "id": 4,
+      "name": "Black Widow",
+      "realName": "Natasha Romanoff",
+      "universe": "Earth-616"
+    },
+    {
+      "id": 5,
+      "name": "Black Panther",
+      "realName": "T'Challa",
+      "universe": "Marvel"
+    },
+    {
+      "id": 6,
+      "name": "Doctor Strange",
+      "realName": "Stephen Strange",
+      "universe": "DC"
+    },
+    {
+      "id": 7,
+      "name": "Scarlet Witch",
+      "realName": "Wanda Maximoff",
+      "universe": "Earth-616"
+    },
+    {
+      "id": 8,
+      "name": "Hulk",
+      "realName": "Bruce Banner",
+      "universe": "Earth-616"
+    }
+  ]
+}
